@@ -1,0 +1,22 @@
+{
+  "name": "json-server-fakeapi",
+  "version": "1.0.0",
+  "description": "A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.2",
+    "json-server-auth": "^2.1.0",
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

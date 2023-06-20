@@ -1,0 +1,919 @@
+{
+  "products": [
+    {
+      "type": "Anh Lông Ngắn",
+      "color": "Xanh Xám",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Anh Lông Ngắn, Xanh Xám, Đực, 3 tháng",
+      "price": "13000000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-2.jpg",
+      "collection": "Mèo",
+      "id": 2
+    },
+    {
+      "type": "Anh Lông Ngắn",
+      "color": "Bicolor ",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "description": "Anh Lông Ngắn, Bicolor, Cái, 3 tháng",
+      "characteristic": "tai cụp.",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "13500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-4.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-3.jpg",
+      "collection": "Mèo",
+      "id": 3
+    },
+    {
+      "type": "Bengal ",
+      "color": "Brown",
+      "gender": "Cái",
+      "age": "2 tháng",
+      "description": "Bengal, Brown, Cái, 2 tháng",
+      "characteristic": "tai cụp",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "12500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-3.jpg",
+      "collection": "Mèo",
+      "id": 4
+    },
+    {
+      "type": "Bengal",
+      "color": "Brown Marble",
+      "gender": "Đực",
+      "age": "1.5 tháng",
+      "description": "Bengal, Brown , Đực, 1.5 tháng",
+      "characteristic": "Không có",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "15000000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-2.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-4.jpg",
+      "collection": "Mèo",
+      "id": 5
+    },
+    {
+      "type": "Bengal",
+      "color": "Brown Spotted",
+      "gender": "Cái",
+      "age": "2 tháng",
+      "description": "Bengal, Brown Spotted, Cái, 2 tháng",
+      "characteristic": "Không có",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "14500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-3.jpg",
+      "collection": "Mèo",
+      "id": 6
+    },
+    {
+      "type": "Anh Lông Ngắn",
+      "color": "Tabby",
+      "gender": "Đực",
+      "age": "2 tháng",
+      "description": "Anh Lông Ngắn, Tabby, Đực, 2 tháng",
+      "characteristic": "Không có",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "13700000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-2.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-5.jpg",
+      "collection": "Mèo",
+      "id": 7
+    },
+    {
+      "type": "Anh Lông Ngắn",
+      "color": "Bicolor ",
+      "gender": "Cái",
+      "age": "2 tháng",
+      "description": "Anh Lông Ngắn, Bicolor , Cái, 2 tháng",
+      "characteristic": "tai cụp",
+      "source": "nhân giống tại Dogily Cattery Đà Lạt.",
+      "price": "12900000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M819-M12530-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M819-M12530-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M819-M12530-5.jpg",
+      "collection": "Mèo",
+      "id": 8
+    },
+    {
+      "type": "Anh Lông Ngắn",
+      "color": "Silver",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Anh Lông Ngắn, Silver, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "13700000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-4.jpg",
+      "collection": "Mèo",
+      "id": 9
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Bicolor",
+      "gender": "Đực",
+      "age": "3.5 tháng",
+      "description": "Anh Lông Dài, Bicolor, Đực, 3.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10450000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/07/M771-M12487-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/07/M771-M12487-4.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/07/M771-M12487-3.jpg",
+      "collection": "Mèo",
+      "id": 10
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Lilac",
+      "gender": "Đực",
+      "age": "2 tháng",
+      "description": "Anh Lông Dài, Lilac, Đực, 2 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10320000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/07/M770-M12481-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/07/M770-M12481-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/07/M770-M12481-2.jpg",
+      "collection": "Mèo",
+      "id": 11
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Xanh Xám",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "description": "Anh Lông Dài, Xanh Xám, Cái, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10310000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/03/M650-M12394-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/03/M650-M12394-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/03/M650-M12394-4.jpg",
+      "collection": "Mèo",
+      "id": 12
+    },
+    {
+      "type": "Anh Lông Dài",
+      "color": "Xanh Xám",
+      "gender": "Cái",
+      "age": "4 tháng",
+      "description": "Anh Lông Dài, Xanh Xám, Cái, 4 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "12270000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-2.jpg",
+      "collection": "Mèo",
+      "id": 13
+    },
+    {
+      "type": "Ba Tư",
+      "color": "Trắng",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Ba Tư, Trắng, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "11310000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12069-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12069-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12069-4.jpg",
+      "collection": "Mèo",
+      "id": 14
+    },
+    {
+      "type": "Ba Tư",
+      "color": "Đen",
+      "gender": "Cái",
+      "age": "3.5 tháng",
+      "description": "Ba Tư, Đen, Cái, 3.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "11269999",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12076-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12076-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12076-5.jpg",
+      "collection": "Mèo",
+      "id": 15
+    },
+    {
+      "type": "Ba Tư",
+      "color": "Tabby ",
+      "gender": "Cái",
+      "age": "3.5 tháng",
+      "description": "Ba Tư, Tabby , Cái, 3.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "12320000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12075-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12075-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12075-3.jpg",
+      "collection": "Mèo",
+      "id": 16
+    },
+    {
+      "type": "Ba Tư",
+      "color": "Orange",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Ba Tư, Orange, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10290000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12067-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12067-4.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12067-5.jpg",
+      "collection": "Mèo",
+      "id": 17
+    },
+    {
+      "type": "Birman",
+      "color": "Blue Point",
+      "gender": "Đực",
+      "age": "2 tháng",
+      "description": "Birman, Blue Point, Đực, 2 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "13500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12083-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12083-2.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12083-3.jpg",
+      "collection": "Mèo",
+      "id": 18
+    },
+    {
+      "type": "Birman",
+      "color": "Blue Point",
+      "gender": "Cái",
+      "age": "2.5 tháng",
+      "description": "Birman, Blue Point, Cái, 2.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "11360000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12081-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12081-7.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12081-3.jpg",
+      "collection": "Mèo",
+      "id": 19
+    },
+    {
+      "type": "Khao Manee",
+      "color": "Trắng",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Birman, Blue Point, Đực, 1.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "12339999",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12082-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12082-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12082-2.jpg",
+      "collection": "Mèo",
+      "id": 20
+    },
+    {
+      "type": "Munchkin",
+      "color": "Bicolor ",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "description": "Munchkin, Bicolor , Cái, 3 thán",
+      "characteristic": "",
+      "source": "",
+      "price": "12370000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M829-M12529-5.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M829-M12529-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M829-M12529-1.jpg",
+      "collection": "Mèo",
+      "id": 21
+    },
+    {
+      "type": "Munchkin ",
+      "color": "Xanh Xám",
+      "gender": "Đực",
+      "age": "2.5 tháng",
+      "description": "Munchkin , Xanh Xám, Đực, 2.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "11330000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/02/M12297-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/02/M12297-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/02/M12297-5.jpg",
+      "collection": "Mèo",
+      "id": 22
+    },
+    {
+      "type": "Munchkin",
+      "color": "Bicolor Lilac",
+      "gender": "Cái",
+      "age": "2.5 tháng",
+      "description": "Munchkin, Bicolor Lilac, Cái, 2.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "12450000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2022/05/m12435-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/05/m12435-2.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/05/m12435-5.jpg",
+      "collection": "Mèo",
+      "id": 23
+    },
+    {
+      "type": "Mỹ Lông Ngắn",
+      "color": "Black Tabby",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "description": "Mỹ Lông Ngắn, Black Tabby, Cái, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10400000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12061-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12061-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12061-5.jpg",
+      "collection": "Mèo",
+      "id": 24
+    },
+    {
+      "type": "Mỹ Lông Ngắn",
+      "color": "Tabby",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Mỹ Lông Ngắn, Tabby, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12060-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12060-12.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12060-4.jpg",
+      "collection": "Mèo",
+      "id": 25
+    },
+    {
+      "type": "Mỹ Lông Ngắn",
+      "color": "Grey",
+      "gender": "Đực",
+      "age": "3.5 tháng",
+      "description": "Mỹ Lông Ngắn, Grey, Đực, 3.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10450000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12057-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12057-4.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12057-3.jpg",
+      "collection": "Mèo",
+      "id": 26
+    },
+    {
+      "type": "Birman",
+      "color": "Blue Point",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Birman, Blue Point, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "10400000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12078-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12078-7.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12078-6.jpg",
+      "collection": "Mèo",
+      "id": 27
+    },
+    {
+      "type": "Ragdoll",
+      "color": "Bicolor",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Ragdoll, Bicolor, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "13500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12085-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12085-2.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12085-8.jpg",
+      "collection": "Mèo",
+      "id": 28
+    },
+    {
+      "type": "Ragdoll",
+      "color": "Lilac Lynx Point",
+      "gender": "Cái",
+      "age": "3 tháng",
+      "description": "Ragdoll, Lilac Lynx Point, Cái, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "12400000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12084-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12084-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12084-2.jpg",
+      "collection": "Mèo",
+      "id": 29
+    },
+    {
+      "type": "Ragdoll",
+      "color": "Blue Point",
+      "gender": "Đực",
+      "age": "2.5 tháng",
+      "description": "Ragdoll, Blue Point, Đực, 2.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "13500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12086-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12086-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12086-2.jpg",
+      "collection": "Mèo",
+      "id": 30
+    },
+    {
+      "type": "Rừng Na Uy",
+      "color": "Orange",
+      "gender": "Đực",
+      "age": "3 tháng",
+      "description": "Rừng Na Uy, Orange, Đực, 3 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "12450000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12105-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12105-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12105-4.jpg",
+      "collection": "Mèo",
+      "id": 31
+    },
+    {
+      "type": "Rừng Na Uy",
+      "color": "White Tabby",
+      "gender": "Cái",
+      "age": "2.5 tháng",
+      "description": "Rừng Na Uy, White Tabby, Cái, 2.5 tháng",
+      "characteristic": "",
+      "source": "",
+      "price": "13500000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12104-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12104-6.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12104-7.jpg",
+      "collection": "Mèo",
+      "id": 32
+    },
+    {
+      "type": "Rừng Na Uy",
+      "color": "Tabby",
+      "gender": "Đực",
+      "age": "3.5 tháng",
+      "description": "Rừng Na Uy, Tabby, Đực, 3.5 tháng,",
+      "characteristic": "",
+      "source": "",
+      "price": "11450000",
+      "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12102-1.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12102-7.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12102-6.jpg",
+      "collection": "Mèo",
+      "id": 33
+    },
+    {
+      "description": "[ GIẢM 50K ] COMBO Mua 5 Lon Pate King's Pet 380G",
+      "image1": "https://product.hstatic.net/200000108863/product/mkt-post_dang_fb__23__980a47ae3dc243629956804b1e4d0683_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/mkt-post_dang_fb__23__980a47ae3dc243629956804b1e4d0683_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/mkt-post_dang_fb__23__980a47ae3dc243629956804b1e4d0683_master.png",
+      "collection": "Thức ăn",
+      "price": "225000",
+      "id": 34
+    },
+    {
+      "description": "[ GIẢM 55K ] MUA 1 Thức Ăn Hạt Today's Dinner TẶNG 1 Snack GoZip Cho Mèo",
+      "image1": "https://product.hstatic.net/200000108863/product/mkt-post_dang_fb_ee1c0eb2175245ebaefb62addb6aa4ed_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/mkt-post_dang_fb_ee1c0eb2175245ebaefb62addb6aa4ed_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/mkt-post_dang_fb_ee1c0eb2175245ebaefb62addb6aa4ed_master.png",
+      "collection": "Thức ăn",
+      "price": "100000",
+      "id": 35
+    },
+    {
+      "description": "GimCat Gras Bits 50G - Snack Viên Bánh Thưởng Vị Cỏ Mèo",
+      "image1": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website_-_2021-12-08t135621.638_7b45c9745fd04fdeb22acfcdb420f12f_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website_-_2021-12-08t135621.638_7b45c9745fd04fdeb22acfcdb420f12f_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website_-_2021-12-08t135621.638_7b45c9745fd04fdeb22acfcdb420f12f_master.png",
+      "collection": "Thức ăn",
+      "price": "105000",
+      "id": 36
+    },
+    {
+      "description": "Bánh Thưởng Dinh Dưỡng Cho Mèo Gozip 60G",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__12__38ca282ce2e44ebe847fe45cc471cbbd_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__12__38ca282ce2e44ebe847fe45cc471cbbd_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__12__38ca282ce2e44ebe847fe45cc471cbbd_master.png",
+      "collection": "Thức ăn",
+      "price": "48000",
+      "id": 37
+    },
+    {
+      "description": "Bao Tay Chải Lông Cho Thú Cưng",
+      "image1": "https://product.hstatic.net/200000108863/product/cdc8703a-2bd7-47fa-ad03-be4b8fe6b71c_28c6b3fb93804c80b6b6816d93ecf9de_master.jpg",
+      "image2": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-01-31t211641.444_95b84874f84f4a4ca6de2e95943c887e_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-01-31t211641.444_95b84874f84f4a4ca6de2e95943c887e_master.png",
+      "collection": "Vệ sinh",
+      "price": "45000",
+      "id": 38
+    },
+    {
+      "description": "Bộ Bàn Chải & Kem Đánh Răng Bioline Cho Mèo",
+      "image1": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11__91__abf880db03d44da9bbdabd6c5155f7fa_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11__91__abf880db03d44da9bbdabd6c5155f7fa_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11__91__abf880db03d44da9bbdabd6c5155f7fa_master.png",
+      "collection": "Vệ sinh",
+      "price": "95000",
+      "id": 39
+    },
+    {
+      "description": "Cát Đậu Nành Cao Cấp Cature Tofu 7L / 2.8KG",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse_9b7ad453c7d6471f8bfe89d3fe501811_large.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse_9b7ad453c7d6471f8bfe89d3fe501811_large.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse_9b7ad453c7d6471f8bfe89d3fe501811_large.png",
+      "collection": "Vệ sinh",
+      "price": "200000",
+      "id": 40
+    },
+    {
+      "description": "Dầu Gội Dưỡng Lông 473ML",
+      "image1": "https://product.hstatic.net/200000108863/product/29_0f4faf74cf1341ff8ad7152cbbe2e35d_large.png",
+      "image2": "https://product.hstatic.net/200000108863/product/29_0f4faf74cf1341ff8ad7152cbbe2e35d_large.png",
+      "image3": "https://product.hstatic.net/200000108863/product/29_0f4faf74cf1341ff8ad7152cbbe2e35d_large.png",
+      "collection": "Sữa tắm",
+      "price": "295000",
+      "id": 41
+    },
+    {
+      "description": "Balo Cao Cấp No10",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__71__f0e19ea0c97645d289e792105e43642d_compact.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__72__71fc85751f194845af7cf05436935d60_compact.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__72__71fc85751f194845af7cf05436935d60_compact.png",
+      "collection": "Phụ kiện",
+      "price": "650000",
+      "id": 42
+    },
+    {
+      "description": "Balo Cao Cấp No2",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__26__03e152aa95924808a7a0a3adfb9e197b_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__42__1dca4317ebee497d949f57ca46770083_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__42__1dca4317ebee497d949f57ca46770083_master.png",
+      "collection": "Phụ kiện",
+      "price": "650000",
+      "id": 43
+    },
+    {
+      "description": "BASIC Combo nuôi mèo dành cho người mới",
+      "image1": "https://product.hstatic.net/200000108863/product/combo__7__0d1fc27999e14c4cb41edfe1b6e233b5_large.png",
+      "image2": "https://product.hstatic.net/200000108863/product/combo__7__0d1fc27999e14c4cb41edfe1b6e233b5_large.png",
+      "image3": "https://product.hstatic.net/200000108863/product/combo__7__0d1fc27999e14c4cb41edfe1b6e233b5_large.png",
+      "collection": "Combo",
+      "price": "700000",
+      "id": 44
+    },
+    {
+      "description": "PRO Combo nuôi mèo dành cho người mới",
+      "image1": "https://product.hstatic.net/200000108863/product/combo__8__46ce6f94ecb341cf8a5f801c7fa04b5a_large.png",
+      "image2": "https://product.hstatic.net/200000108863/product/combo__8__46ce6f94ecb341cf8a5f801c7fa04b5a_large.png",
+      "image3": "https://product.hstatic.net/200000108863/product/combo__8__46ce6f94ecb341cf8a5f801c7fa04b5a_large.png",
+      "collection": "Combo",
+      "price": "1700000",
+      "id": 45
+    },
+    {
+      "description": "VIP Combo nuôi mèo dành cho người mới",
+      "image1": "https://product.hstatic.net/200000108863/product/combo__9__1bc9e3e13f964709bd6d9f972d246bb2_large.png",
+      "image2": "https://product.hstatic.net/200000108863/product/combo__9__1bc9e3e13f964709bd6d9f972d246bb2_large.png",
+      "image3": "https://product.hstatic.net/200000108863/product/combo__9__1bc9e3e13f964709bd6d9f972d246bb2_large.png",
+      "collection": "Combo",
+      "price": "3000000",
+      "id": 46
+    },
+    {
+      "description": "Tắm Cắt Tỉa Mèo ",
+      "image1": "https://product.hstatic.net/200000108863/product/4_4dd3d16779174d75a5a57d91acc2d0a0_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/yen_-_anh_dang_web__4__fe10495bc0424a60911b274daa4a57b6_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/yen_-_anh_dang_web__7__994b06c4a95c434bb4d6d3d4f8c06ea0_master.png",
+      "collection": "Dịch vụ Grooming&Spa thú cưng Website",
+      "price": "400000",
+      "id": 47
+    },
+    {
+      "description": "Cắt Tỉa Chó Poodle - Kiểu Quý Tộc",
+      "image1": "https://product.hstatic.net/200000108863/product/39_9edf06c2db1f4e079acd7f48d610de59_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/41_37da8fece900437bb412102420bff43a_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/41_37da8fece900437bb412102420bff43a_master.png",
+      "collection": "Dịch vụ Grooming&Spa thú cưng Website",
+      "price": "300000",
+      "id": 48
+    },
+    {
+      "description": "Nhuộm Lông Thú Cưng",
+      "image1": "https://product.hstatic.net/200000108863/product/9_145d10f07a6a49469914a626f21e45c6_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/9_145d10f07a6a49469914a626f21e45c6_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/12_ce44cda426bc42d19b9e5d22c88d4411_master.png",
+      "collection": "Dịch vụ Grooming&Spa thú cưng Website",
+      "price": "100000",
+      "id": 49
+    },
+    {
+      "description": "Combo Tắm Cạo Chó",
+      "image1": "https://product.hstatic.net/200000108863/product/23_342b958228ec4c30b18e81af5effa1e6_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/8_597468d221e44f409f32b7647a947121_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/8_597468d221e44f409f32b7647a947121_master.png",
+      "collection": "Dịch vụ Grooming&Spa thú cưng Website",
+      "price": "250000",
+      "id": 50
+    },
+    {
+      "description": "Combo Tắm Cạo Mèo",
+      "image1": "https://product.hstatic.net/200000108863/product/yen_-_anh_dang_web__5__74abcaeeaa124f329f90cda7ea886d1a_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/yen_-_anh_dang_web__6__5498bfc0b20c4386841328cd1d649c41_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/1_d84f093520e5475c84c1eee841b6f703_master.png",
+      "collection": "Dịch vụ Grooming&Spa thú cưng Website",
+      "price": "300000",
+      "id": 51
+    },
+    {
+      "description": "Hotel Mèo - Phòng Máy Lạnh Cao Cấp (Pet > 5kg)",
+      "image1": "https://product.hstatic.net/200000108863/product/1_1b7369ad41d145fc8e4f6393bade1d7a_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/8_de4b0f297f3d4e409b4d7b58fe28c62f_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/3_269cd5e5053345ddac98a36fe05ca5f0_master.png",
+      "collection": "Hotel website",
+      "price": "180000",
+      "id": 52
+    },
+    {
+      "description": "Hotel Mèo - Phòng Máy Lạnh Cao Cấp (Pet < 5kg)",
+      "image1": "https://product.hstatic.net/200000108863/product/5_3520b812a3a34d45a56686a84227d169_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/4_4e0e2fa522074d5eb6262ac7a2103f39_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/3_2ec76f02b67a42718cbd4c85bb3bf57c_master.png",
+      "collection": "Hotel website",
+      "price": "160000",
+      "id": 53
+    },
+    {
+      "description": "Hotel Mèo - Phòng gỗ lưới cao cấp siêu thoáng (Pet < 5kg)",
+      "image1": "https://product.hstatic.net/200000108863/product/12_a26d9b0d723e49ac87f80d5f93e6ec75_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/15_464d69f4ba284bcbaecd612b35f26ca0_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/14_2e65b1bc1a254c6bbd24050f38dd2046_master.png",
+      "collection": "Hotel website",
+      "price": "160000",
+      "id": 54
+    },
+    {
+      "description": "Hotel Mèo - Phòng gỗ lưới cao cấp siêu thoáng (Pet > 5kg)",
+      "image1": "https://product.hstatic.net/200000108863/product/9_32f17b2e9c2848f494cfc99defc03ba8_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/9_32f17b2e9c2848f494cfc99defc03ba8_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/17_266ccaf2bdea4b69918b0b8551392922_master.png",
+      "collection": "Hotel website",
+      "price": "180000",
+      "id": 55
+    },
+    {
+      "description": "Balo Cao Cấp No3",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__56__f274810bdcb94bdf9ac39d2626b1dfd7_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__30__52bac2910d3c4cd1b9d961da18755858_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__30__52bac2910d3c4cd1b9d961da18755858_master.png",
+      "collection": "Phụ kiện",
+      "price": "650000",
+      "id": 56
+    },
+    {
+      "description": "Đồ Chơi Cần Câu Mèo",
+      "image1": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11__25__2d00b6e629ea495e9d24094f0b028874_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11__27__22c19ee0e5ad40c1bc737eb10c523552_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11__26__956be25ad35244d191e6fd2d1d017a28_master.png",
+      "collection": "Đồ chơi",
+      "price": "35000",
+      "id": 57
+    },
+    {
+      "description": "Cat Tree 3 Tầng Mẫu Lớn",
+      "image1": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-01-29t161418.554_cef0be65d30e4afbb27e6a57bb5238d7_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-01-29t161418.554_cef0be65d30e4afbb27e6a57bb5238d7_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-01-29t161418.554_cef0be65d30e4afbb27e6a57bb5238d7_master.png",
+      "collection": "Đồ chơi",
+      "price": "3250000",
+      "id": 58
+    },
+    {
+      "description": "Cỏ Mèo Catnip Gắn Tường",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse-39_971e9871d7e343dcbe3639ea9ee52a9a_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__44__43ddabd8858749e09faa1c70f23d528f_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__44__43ddabd8858749e09faa1c70f23d528f_master.png",
+      "collection": "Đồ chơi",
+      "price": "40000",
+      "id": 59
+    },
+    {
+      "description": "Dầu Gội Trị Ngứa Chó Mèo OXYMED Medicated Anti-Itch Shampoo",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__9__f1128c30cfff4fbb9b9dcd46d28a39c2_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__9__f1128c30cfff4fbb9b9dcd46d28a39c2_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__9__f1128c30cfff4fbb9b9dcd46d28a39c2_master.png",
+      "collection": "Sữa tắm",
+      "price": "395000",
+      "id": 60
+    },
+    {
+      "description": "Dầu Gội Trị Ve & Bọ Chét Tropiclean Natural Flea & Tick 592ML",
+      "image1": "https://product.hstatic.net/200000108863/product/98_611130d4d81f425286634a1d948d0ca3_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website__63__9a1c2a7f511f40f78abf454886734a85_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website__63__9a1c2a7f511f40f78abf454886734a85_master.png",
+      "collection": "Sữa tắm",
+      "price": "395000",
+      "id": 61
+    },
+    {
+      "description": "Gel Dinh Dưỡng Bổ Sung Taurine & Hỗ Trợ Thị Lực, Tim Mạch Cho Mèo GimCat Taurine Paste Extra",
+      "image1": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website_-_2021-12-08t135315.157_a505523bcb5b4d34b9c06eb0455539e6_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website_-_2021-12-08t135315.157_a505523bcb5b4d34b9c06eb0455539e6_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/a_vinh_-_anh_dang_website_-_2021-12-08t135315.157_a505523bcb5b4d34b9c06eb0455539e6_master.png",
+      "collection": "Sữa, Thực phẩm bổ sung",
+      "price": "200000",
+      "id": 62
+    },
+    {
+      "description": "Men Trị Tiêu Chảy, Ói Mửa Bio Scour",
+      "image1": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-02-06t200334.037_0661fee5a60a463e99e6b3e230db8e07_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-02-06t200334.037_0661fee5a60a463e99e6b3e230db8e07_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/263_huynh_van_banh__p._12__q._11_-_2021-02-06t200334.037_0661fee5a60a463e99e6b3e230db8e07_master.png",
+      "collection": "Sữa, Thực phẩm bổ sung",
+      "price": "10000",
+      "id": 63
+    },
+    {
+      "description": "GimCat Multi Vitamin Tabs 40G - Snack Bổ Sung Vitamin & Tăng Miễn Dịch Cho Mèo",
+      "image1": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__4__6a57cd3b4a07472f8c6832f1f9e2f870_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__4__6a57cd3b4a07472f8c6832f1f9e2f870_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/__website_-_cathouse__4__6a57cd3b4a07472f8c6832f1f9e2f870_master.png",
+      "collection": "Sữa, Thực phẩm bổ sung",
+      "price": "105000",
+      "id": 64
+    },
+    {
+      "description": "Gel Dinh Dưỡng Phô Mai Giúp Lông Da Bóng Mượt, Móng Săn Chắc Cho Mèo GimCat Cheese Biotin Paste 50G",
+      "collection": "Sữa, Thực phẩm bổ sung",
+      "price": "200000",
+      "image1": "https://product.hstatic.net/200000108863/product/76_10eb741c43834dfb9328d28dc285bdcf_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/76_10eb741c43834dfb9328d28dc285bdcf_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/76_10eb741c43834dfb9328d28dc285bdcf_master.png",
+      "id": 65
+    },
+    {
+      "description": "Mèo Anh Lông Ngắn Màu CINNAMON",
+      "collection": "Mèo",
+      "price": "38000000",
+      "image1": "https://product.hstatic.net/200000108863/product/2_e7f96745aa8f432ba6bb852a4e3a4c4c_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/3_a5ffd5a4955048ca8ed06a8a45398a8e_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/4_774f5dd36f6c4d18b3b1e4410559b774_master.png",
+      "id": 66,
+      "category": "Anh Lông Ngắn"
+    },
+    {
+      "description": "Mèo Anh lông ngắn màu Silver Tabby",
+      "collection": "Mèo",
+      "category": "Anh Lông Ngắn",
+      "price": "12000000",
+      "image1": "https://product.hstatic.net/200000108863/product/15_4a2c789dbb2b42f28cf8771fb86cdcf2_master.png",
+      "image2": "https://product.hstatic.net/200000108863/product/13_27d66c5adeea4343975727ffa83b83fe_master.png",
+      "image3": "https://product.hstatic.net/200000108863/product/16_b974c8552ec0484685a58d1def5eb469_master.png",
+      "id": 67
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin@gmail.com",
+      "role": "admin",
+      "password": "123456",
+      "name": "admin admin",
+      "phone": "0348575757",
+      "birthday": "2001-02-06",
+      "address": "tbcnnjdjđ",
+      "province": "Tỉnh Cao Bằng",
+      "district": "Huyện Hà Quảng",
+      "ward": "Xã Ngọc Động",
+      "listOrder": [
+        {
+          "name": "admin admin",
+          "phone": "0348575757",
+          "email": "admin@gmail.com",
+          "address": "tbcnnjdjđ",
+          "ward": "Xã Ngọc Động",
+          "district": "Huyện Hà Quảng",
+          "province": "Tỉnh Cao Bằng",
+          "id": 569749742463,
+          "state": "waiting",
+          "cart": [
+            {
+              "cartId": 9,
+              "quantity": 2,
+              "price": 13700000,
+              "image": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-1.jpg",
+              "name": "Anh Lông Ngắn, Silver, Đực, 3 tháng"
+            },
+            {
+              "cartId": 13,
+              "quantity": 3,
+              "price": 12270000,
+              "image": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-1.jpg",
+              "name": "Anh Lông Dài, Xanh Xám, Cái, 4 tháng"
+            }
+          ],
+          "totalPrice": 64210000,
+          "createAt": "17:26:39 31/03/2023"
+        }
+      ]
+    }
+  ],
+  "list-cart": [
+    {
+      "name": "admin admin",
+      "phone": "0348575757",
+      "email": "admin@gmail.com",
+      "address": "tbcnnjdjđ",
+      "ward": "Xã Ngọc Động",
+      "district": "Huyện Hà Quảng",
+      "province": "Tỉnh Cao Bằng",
+      "id": 569749742463,
+      "state": "waiting",
+      "cart": [
+        {
+          "cartId": 9,
+          "quantity": 2,
+          "price": 13700000,
+          "image": "https://azpet.com.vn/wp-content/uploads/2022/09/M837-M12538-1.jpg",
+          "name": "Anh Lông Ngắn, Silver, Đực, 3 tháng"
+        },
+        {
+          "cartId": 13,
+          "quantity": 3,
+          "price": 12270000,
+          "image": "https://azpet.com.vn/wp-content/uploads/2022/02/M12348-1.jpg",
+          "name": "Anh Lông Dài, Xanh Xám, Cái, 4 tháng"
+        }
+      ],
+      "totalPrice": 64210000,
+      "createAt": "17:26:39 31/03/2023"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Anh Lông Dài",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Meo-Anh-Long-Dai.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Anh Lông Ngắn",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Meo-Anh-Long-Ngan.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ba Tư",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Meo-ba-tu.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bengal",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Bengal.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Birman",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/meo-than-mien-dien-Birman.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Khao Manee",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Khao-Manee.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Munchkin",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/meo-munchkin.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mỹ Lông Ngắn",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/meo-my-long-ngan-375x375.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ragdoll",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/Ragdoll-375x375.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Rừng Na Uy",
+      "image": "https://azpet.com.vn/wp-content/uploads/2021/06/meo-rung-na-uy-375x375.jpg"
+    }
+  ]
+}
