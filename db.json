@@ -8,8 +8,8 @@
       "description": "Anh Lông Ngắn, Xanh Xám, Đực, 3 tháng",
       "price": "13000000",
       "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-1.jpg",
-      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-3.jpg",
-      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-2.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-1.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M844-M12539-1.jpg",
       "collection": "Mèo",
       "id": 2
     },
@@ -23,8 +23,8 @@
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
       "price": "13500000",
       "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-1.jpg",
-      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-4.jpg",
-      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-3.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-1.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M836-M12537-1.jpg",
       "collection": "Mèo",
       "id": 3
     },
@@ -38,8 +38,8 @@
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
       "price": "12500000",
       "image1": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-1.jpg",
-      "image2": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-5.jpg",
-      "image3": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-3.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-1.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/10/Bengal-Brown-M12235-1.jpg",
       "collection": "Mèo",
       "id": 4
     },
@@ -53,8 +53,8 @@
       "source": "nhân giống tại Dogily Cattery Đà Lạt.",
       "price": "15000000",
       "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-1.jpg",
-      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-2.jpg",
-      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-4.jpg",
+      "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-1.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12064-1.jpg",
       "collection": "Mèo",
       "id": 5
     },
@@ -69,7 +69,7 @@
       "price": "14500000",
       "image1": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-1.jpg",
       "image2": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-5.jpg",
-      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-3.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2021/06/M12063-1.jpg",
       "collection": "Mèo",
       "id": 6
     },
@@ -84,7 +84,7 @@
       "price": "13700000",
       "image1": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-1.jpg",
       "image2": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-2.jpg",
-      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-5.jpg",
+      "image3": "https://azpet.com.vn/wp-content/uploads/2022/09/M828-M12531-1.jpg",
       "collection": "Mèo",
       "id": 7
     },
@@ -792,11 +792,11 @@
       "id": 1,
       "username": "admin@gmail.com",
       "role": "admin",
-      "password": "123456",
+      "password": "$2a$10$DiLNiDKJOfLQjQKAvrX1VO0/upkqOVyjLfTBifIFL/LGJHS6ti/rC",
       "name": "admin admin",
       "phone": "0348575757",
-      "birthday": "2001-02-06",
-      "address": "tbcnnjdjđ",
+      "birthday": "2001-03-14",
+      "address": "ggg",
       "province": "Tỉnh Cao Bằng",
       "district": "Huyện Hà Quảng",
       "ward": "Xã Ngọc Động",
@@ -831,6 +831,27 @@
           "createAt": "17:26:39 31/03/2023"
         }
       ]
+    },
+    {
+      "username": "admin1@gmail.com",
+      "password": "$2a$10$mZM0lHafeO2dwQi1VhII/O3El05bdCyYeJsJvpFewvDLSW2MIfbl.",
+      "id": 2,
+      "name": "admin admin2",
+      "phone": "0393939393",
+      "address": "oki. nhe",
+      "province": "Tỉnh Điện Biên",
+      "district": "Huyện Tủa Chùa",
+      "ward": "Xã Tả Sìn Thàng"
+    },
+    {
+      "username": "admin12@gmail.com",
+      "password": "$2a$10$T6/0v7yLYH14y7PZg3pQ2.1n9XZE0BCphr.Bbq60p3PdsRyIy5jLW",
+      "id": 3
+    },
+    {
+      "username": "admin124@gmail.com",
+      "password": "$2a$10$jo8.xLlZTbb.ZJ/H/UGjdeH/K56FfnHFYEcKU3AUkh4JmWS1xjozC",
+      "id": 4
     }
   ],
   "list-cart": [
